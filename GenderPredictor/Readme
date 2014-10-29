@@ -1,0 +1,8 @@
+Gender Predictor:
+
+Takes a name as an input.
+Output is a prediction of a name being Male or Female.
+Denoted by M / F.
+
+NLTK is used.
+Naive bayes classified on the USSSA names training dataset.
